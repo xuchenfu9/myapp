@@ -1,7 +1,7 @@
 {
   "recommendations": [
     {
-      "id": "todo-list",
+      "id": "PerfectList",
       "title": {
         "zh-Hans": "推荐下载：好用的任务清单",
         "zh-Hant": "推薦下載：好用的任務清單",
@@ -13,7 +13,7 @@
       "emoji": "🌟"
     },
     {
-      "id": "example-app-2",
+      "id": "MyBookmarks",
       "title": {
         "zh-Hans": "推荐：佳佳证件照",
         "zh-Hant": "推薦：佳佳证件照",
