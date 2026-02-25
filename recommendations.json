@@ -13,16 +13,28 @@
       "emoji": "🌟"
     },
     {
-      "id": "MyBookmarks",
+      "id": "JiaJiaPhoto",
       "title": {
         "zh-Hans": "推荐：佳佳证件照",
-        "zh-Hant": "推薦：佳佳证件照",
-        "en": "Try this awesome app",
-        "ja": "おすすめアプリ",
-        "ko": "추천 앱"
+        "zh-Hant": "推薦：佳佳證件照",
+        "en": "Recommended: JiaJia ID Photo",
+        "ja": "おすすめ：証明写真アプリ",
+        "ko": "추천: 증명사진 앱"
       },
       "url": "https://apps.apple.com/app/id6758612379",
-      "emoji": "✨"
+      "emoji": "📷"
+    },
+    {
+      "id": "MyBookmarks",
+      "title": {
+        "zh-Hans": "推荐：我的书签",
+        "zh-Hant": "推薦：我的書籤",
+        "en": "Recommended: My Bookmarks",
+        "ja": "おすすめ：マイブックマーク",
+        "ko": "추천: 내 북마크"
+      },
+      "url": "https://apps.apple.com/app/id6758990165",
+      "emoji": "🔖"
     }
   ]
 }
