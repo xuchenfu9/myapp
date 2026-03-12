@@ -1,40 +1,56 @@
 {
   "recommendations": [
     {
-      "id": "PerfectList",
+      "id": "todo-list",
       "title": {
         "zh-Hans": "推荐下载：好用的任务清单",
         "zh-Hant": "推薦下載：好用的任務清單",
-        "en": "Recommended: Great To-Do List App",
+        "en": "Try this to-do app",
         "ja": "おすすめ：使いやすいToDoリストアプリ",
         "ko": "추천 다운로드: 편리한 할 일 목록 앱"
       },
       "url": "https://apps.apple.com/app/id6759079848",
-      "emoji": "🌟"
+      "emoji": "🌟",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/d4/6e/54d46ea6-6f6c-2d00-ebff-087ec080d8b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
     },
     {
-      "id": "JiaJiaPhoto",
+      "id": "party-games",
+      "title": {
+        "zh-Hans": "推荐：聚会游戏",
+        "zh-Hant": "推薦：聚會遊戲",
+        "en": "Try Party Games",
+        "ja": "おすすめ：パーティーゲーム",
+        "ko": "추천: 파티 게임"
+      },
+      "url": "https://apps.apple.com/app/id6759240304",
+      "emoji": "🎉",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/1e/5a/de1e5a8a-1112-1f1f-fc9b-75915e3be90b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "id": "example-app-2",
       "title": {
         "zh-Hans": "推荐：佳佳证件照",
         "zh-Hant": "推薦：佳佳證件照",
-        "en": "Recommended: JiaJia ID Photo",
+        "en": "Try this ID photo app",
         "ja": "おすすめ：証明写真アプリ",
         "ko": "추천: 증명사진 앱"
       },
       "url": "https://apps.apple.com/app/id6758612379",
-      "emoji": "📷"
+      "emoji": "✨",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/fd/6a/9bfd6aaa-fd54-bda4-864c-e522938767ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
     },
     {
-      "id": "MyBookmarks",
+      "id": "my-bookmarks",
       "title": {
         "zh-Hans": "推荐：我的书签",
         "zh-Hant": "推薦：我的書籤",
-        "en": "Recommended: My Bookmarks",
+        "en": "Try My Bookmarks",
         "ja": "おすすめ：マイブックマーク",
         "ko": "추천: 내 북마크"
       },
       "url": "https://apps.apple.com/app/id6758990165",
-      "emoji": "🔖"
+      "emoji": "🔖",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/72/ee/0e72eef8-1dfc-bf47-7a6c-b5b2d40f55bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
     }
   ]
 }
