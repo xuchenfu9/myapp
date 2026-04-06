@@ -27,7 +27,7 @@ Use MeowTalk Diary to:
 - customize backgrounds and adjust feature button positions
 - organize life records for one cat or multiple pets
 
-Most data stays on your device. Supported data can also sync through iCloud when enabled.
+All data stays on your device by default. Supported data can also sync through iCloud when enabled.
 
 MeowTalk Diary is built for calm daily pet care, memory keeping, and long-term cat life records.
 

@@ -31,7 +31,7 @@ window.PET_PAW_SITE = {
         primary: "Technical Support",
         secondary: "Privacy Policy",
         stats: [
-          { title: "Local-first", body: "Most pet records stay on your device by default." },
+          { title: "Local-first", body: "All pet records stay on your device by default." },
           { title: "iCloud sync", body: "You can choose to sync supported data through your own iCloud account." },
           { title: "No ads", body: "No advertising, no analytics SDKs, and no account wall." },
           { title: "For daily care", body: "Notes, reminders, albums, bookkeeping, and medical memories." }
@@ -66,7 +66,7 @@ window.PET_PAW_SITE = {
             title: "2. Information you create in the app",
             paragraphs: [
               "The app is designed for personal pet record keeping. Depending on how you use it, you may create pet profiles, notes, reminders, albums, bookkeeping entries, medical records, and other diary content.",
-              "Most of this content is stored locally on your device."
+              "All of this content is stored locally on your device by default."
             ]
           },
           {
@@ -242,7 +242,7 @@ window.PET_PAW_SITE = {
         primary: "技术支持",
         secondary: "隐私政策",
         stats: [
-          { title: "本地优先", body: "大部分宠物记录默认保存在你的设备本地。" },
+          { title: "本地优先", body: "全部宠物记录默认保存在你的设备本地。" },
           { title: "支持 iCloud", body: "你可以选择通过自己的 iCloud 账号同步受支持的数据。" },
           { title: "无广告", body: "没有广告、没有统计分析、没有账号墙。" },
           { title: "围绕养宠生活", body: "覆盖记事、提醒、相册、病历与日常管理场景。" }
@@ -277,7 +277,7 @@ window.PET_PAW_SITE = {
             title: "2. 你在 App 中创建的信息",
             paragraphs: [
               "本 App 用于个人宠物记录。根据你的使用方式，你可能会创建宠物档案、记事、提醒、相册内容、记账记录、病历信息及其他日记内容。",
-              "以上大部分内容默认保存在你的设备本地。"
+              "以上全部内容默认保存在你的设备本地。"
             ]
           },
           {
@@ -453,7 +453,7 @@ window.PET_PAW_SITE = {
         primary: "技術支援",
         secondary: "隱私政策",
         stats: [
-          { title: "本機優先", body: "大部分寵物紀錄預設保存在你的裝置本機。" },
+          { title: "本機優先", body: "全部寵物紀錄預設保存在你的裝置本機。" },
           { title: "支援 iCloud", body: "你可以選擇透過自己的 iCloud 帳號同步受支援的資料。" },
           { title: "無廣告", body: "沒有廣告、沒有統計分析、沒有帳號牆。" },
           { title: "圍繞養寵生活", body: "涵蓋記事、提醒、相簿、病歷與日常管理情境。" }
@@ -488,7 +488,7 @@ window.PET_PAW_SITE = {
             title: "2. 你在 App 中建立的資訊",
             paragraphs: [
               "本 App 用於個人寵物紀錄。依你的使用方式，你可能會建立寵物檔案、記事、提醒、相簿內容、記帳紀錄、病歷資訊及其他日記內容。",
-              "上述大部分內容預設保存在你的裝置本機。"
+              "上述全部內容預設保存在你的裝置本機。"
             ]
           },
           {
@@ -664,7 +664,7 @@ window.PET_PAW_SITE = {
         primary: "サポート",
         secondary: "プライバシー",
         stats: [
-          { title: "ローカル優先", body: "ほとんどの記録は初期状態であなたの端末に保存されます。" },
+          { title: "ローカル優先", body: "すべての記録は初期状態であなたの端末に保存されます。" },
           { title: "iCloud 同期", body: "対応データはあなたの iCloud アカウントで同期できます。" },
           { title: "広告なし", body: "広告、分析トラッキング、アカウント必須はありません。" },
           { title: "日々のケア向け", body: "メモ、リマインダー、アルバム、家計、通院記録に対応します。" }
@@ -699,7 +699,7 @@ window.PET_PAW_SITE = {
             title: "2. アプリ内で作成される情報",
             paragraphs: [
               "本アプリは個人向けのペット記録ツールです。利用方法に応じて、ペットプロフィール、メモ、リマインダー、アルバム、家計記録、通院記録などを作成できます。",
-              "これらの大部分は、初期状態であなたの端末に保存されます。"
+              "これらはすべて、初期状態であなたの端末に保存されます。"
             ]
           },
           {
@@ -875,7 +875,7 @@ window.PET_PAW_SITE = {
         primary: "기술 지원",
         secondary: "개인정보처리방침",
         stats: [
-          { title: "로컬 우선", body: "대부분의 기록은 기본적으로 사용자의 기기에 저장됩니다." },
+          { title: "로컬 우선", body: "모든 기록은 기본적으로 사용자의 기기에 저장됩니다." },
           { title: "iCloud 동기화", body: "지원되는 데이터는 사용자의 iCloud 계정으로 동기화할 수 있습니다." },
           { title: "광고 없음", body: "광고, 분석 추적, 계정 강제가 없습니다." },
           { title: "일상 돌봄 중심", body: "메모, 알림, 앨범, 가계, 진료 기록을 다룹니다." }
@@ -910,7 +910,7 @@ window.PET_PAW_SITE = {
             title: "2. 앱에서 생성하는 정보",
             paragraphs: [
               "이 앱은 개인용 반려동물 기록 도구입니다. 사용 방식에 따라 반려동물 프로필, 메모, 알림, 앨범, 가계 기록, 진료 기록 등을 만들 수 있습니다.",
-              "이 정보의 대부분은 기본적으로 사용자의 기기에 로컬로 저장됩니다."
+              "이 정보는 모두 기본적으로 사용자의 기기에 로컬로 저장됩니다."
             ]
           },
           {

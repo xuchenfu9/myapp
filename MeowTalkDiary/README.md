@@ -1,27 +1,26 @@
-# MeowTalkDiary Documents
+# Static Site
 
-This folder contains the public documents prepared for `MeowTalk Diary / 喵语日记`.
+This folder now contains a GitHub Pages compatible static site for App Store submission links.
 
-## Public Site
+## Pages
 
-- Marketing page: `index.html`
-- Privacy Policy: `privacy/index.html`
-- Terms of Service: `terms/index.html`
-- Support: `support/index.html`
+- `index.html`: marketing URL
+- `privacy/`: privacy policy
+- `terms/`: terms of service
+- `support/`: technical support
 
-## GitHub Pages URLs
+## Publish on GitHub Pages
 
-- Site home: `https://xuchenfu9.github.io/myapp/MeowTalkDiary/`
-- Privacy Policy: `https://xuchenfu9.github.io/myapp/MeowTalkDiary/privacy/`
-- Terms of Service: `https://xuchenfu9.github.io/myapp/MeowTalkDiary/terms/`
-- Support: `https://xuchenfu9.github.io/myapp/MeowTalkDiary/support/`
+1. Push the repository to GitHub.
+2. In repository settings, enable GitHub Pages.
+3. Choose deployment from the `main` branch and `/docs` folder.
+4. Use the generated public URL in App Store Connect for:
+   - Marketing URL
+   - Privacy Policy URL
+   - Support URL
 
-## App Store Metadata
+## Language Switching
 
-Localized metadata drafts are in `app-store-metadata/`:
-
-- `en-US.md`
-- `zh-Hans.md`
-- `zh-Hant.md`
-- `ja.md`
-- `ko.md`
+- Supported languages: English, Simplified Chinese, Traditional Chinese, Japanese, Korean
+- Language can be changed from the top-right switcher on every page.
+- The selected language is preserved in `localStorage` and also through the `?lang=` query parameter.
