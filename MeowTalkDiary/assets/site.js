@@ -118,9 +118,7 @@
     const left = el("div");
     left.appendChild(el("div", "", t.common.footer));
     left.appendChild(el("div", "muted", t.common.updated));
-    const right = el("div", "muted", t.common.footerNote);
     card.appendChild(left);
-    card.appendChild(right);
     footer.appendChild(card);
   }
 
