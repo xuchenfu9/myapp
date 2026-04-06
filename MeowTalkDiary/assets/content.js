@@ -53,7 +53,7 @@ window.PET_PAW_SITE = {
       },
       privacy: {
         title: "Privacy Policy",
-        lead: "This Privacy Policy explains how MeowTalk Diary collects, stores, uses, and shares information when you use the app.",
+        lead: "This Privacy Policy explains how MeowTalk Diary handles information when you use the app, including on-device storage, optional sync, and user-initiated sharing.",
         sections: [
           {
             title: "1. Who operates the app",
@@ -70,14 +70,22 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "3. iCloud sync",
+            title: "3. What we do not collect from you",
             paragraphs: [
-              "MeowTalk Diary may offer optional iCloud sync for supported data. If you enable iCloud sync on your device, your data may be stored and synchronized through Apple's iCloud services linked to your Apple ID.",
-              "Apple acts as the provider of that cloud infrastructure and handles data according to its own terms and privacy practices."
+              "We do not collect, receive, or store your personal data on our own servers.",
+              "We do not require an account, and we do not ask you to submit your name, email address, phone number, contacts, location, advertising identifiers, or analytics profile to us in order to use the app.",
+              "Content you type or save in the app is for your own record keeping and is stored on your device unless you explicitly enable an optional sync or sharing feature."
             ]
           },
           {
-            title: "4. Permissions",
+            title: "4. iCloud sync",
+            paragraphs: [
+              "MeowTalk Diary may offer optional iCloud sync for supported data. If you enable iCloud sync on your device, your data may be stored and synchronized through Apple's private CloudKit services linked to your Apple ID.",
+              "This is not the same as submitting your data to our own servers. Apple acts as the provider of that cloud infrastructure and handles the synced data according to its own terms and privacy practices."
+            ]
+          },
+          {
+            title: "5. Permissions",
             bullets: [
               "Photos: used when you choose pet avatars or import media into albums.",
               "Camera: used when you capture pet photos or videos inside the app.",
@@ -86,7 +94,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "5. Sharing with third parties",
+            title: "6. Sharing with third parties",
             paragraphs: [
               "The app does not sell your data.",
               "If you actively use WeChat sharing or a similar share action, the content you choose to share is sent to that third-party platform only to complete your request.",
@@ -94,7 +102,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "6. What the app does not do",
+            title: "7. What the app does not do",
             bullets: [
               "No account system",
               "No advertising",
@@ -103,7 +111,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "7. Data retention and control",
+            title: "8. Data retention and control",
             paragraphs: [
               "You can edit or delete content in the app at any time.",
               "Locally stored data remains on your device until you remove it, uninstall the app, or clear it through system or app controls.",
@@ -111,14 +119,14 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "8. Children's privacy",
+            title: "9. Children's privacy",
             paragraphs: [
               "The app is a general pet journaling tool and is not knowingly directed to children under a specific age.",
               "If you believe information was provided inappropriately, contact the operator."
             ]
           },
           {
-            title: "9. Policy updates",
+            title: "10. Policy updates",
             paragraphs: [
               "This Privacy Policy may be updated from time to time. Material updates will be reflected on this page with a new effective date."
             ]
@@ -256,7 +264,7 @@ window.PET_PAW_SITE = {
       },
       privacy: {
         title: "隐私政策",
-        lead: "本隐私政策说明 喵语日记 / MeowTalk Diary 在你使用 App 时如何收集、保存、使用和共享信息。",
+        lead: "本隐私政策说明 喵语日记 / MeowTalk Diary 在你使用 App 时如何处理信息，包括本地存储、可选同步与用户主动分享。",
         sections: [
           {
             title: "1. 运营者信息",
@@ -273,14 +281,22 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "3. iCloud 同步",
+            title: "3. 我们不会向你收集什么",
             paragraphs: [
-              "喵语日记 可能提供受支持数据的可选 iCloud 同步功能。当你在设备上启用相关同步后，数据可能通过与你 Apple ID 关联的 iCloud 服务进行存储和同步。",
-              "Apple 作为云基础设施提供方，会根据其自身条款和隐私政策处理相关数据。"
+              "我们不会在自己的服务器上收集、接收或存储你的个人数据。",
+              "使用本 App 不需要注册账号，我们也不会要求你向我们提交姓名、邮箱、手机号、通讯录、位置、广告标识符或分析画像等信息。",
+              "你在 App 中输入或保存的内容主要用于你自己的记录，默认仅保存在你的设备上；只有当你主动开启可选同步或分享功能时，相关数据才会离开设备。"
             ]
           },
           {
-            title: "4. 权限说明",
+            title: "4. iCloud 同步",
+            paragraphs: [
+              "喵语日记 可能提供受支持数据的可选 iCloud 同步功能。当你在设备上启用相关同步后，数据可能通过与你 Apple ID 关联的私有 CloudKit 服务进行存储和同步。",
+              "这并不等同于把数据提交到我们的自有服务器。Apple 作为云基础设施提供方，会根据其自身条款和隐私政策处理相关同步数据。"
+            ]
+          },
+          {
+            title: "5. 权限说明",
             bullets: [
               "照片权限：用于选择宠物头像，或把媒体导入相册内容。",
               "相机权限：用于在 App 内拍摄宠物照片或视频。",
@@ -289,7 +305,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "5. 与第三方的共享",
+            title: "6. 与第三方的共享",
             paragraphs: [
               "本 App 不出售你的数据。",
               "如果你主动使用微信分享或类似分享功能，你选择分享的内容会发送到对应第三方平台，仅用于完成你的分享请求。",
@@ -297,7 +313,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "6. 本 App 不会做什么",
+            title: "7. 本 App 不会做什么",
             bullets: [
               "没有账号系统",
               "没有广告",
@@ -306,7 +322,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "7. 数据保留与控制",
+            title: "8. 数据保留与控制",
             paragraphs: [
               "你可以随时在 App 中修改或删除自己的内容。",
               "保存在本地的数据会继续留在你的设备上，直到你删除它、卸载 App，或通过系统/应用控制清除数据。",
@@ -314,14 +330,14 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "8. 儿童隐私",
+            title: "9. 儿童隐私",
             paragraphs: [
               "本 App 是通用的宠物记录工具，并非专门面向特定年龄以下儿童设计。",
               "如果你认为有信息被不当提供，请联系运营者。"
             ]
           },
           {
-            title: "9. 政策更新",
+            title: "10. 政策更新",
             paragraphs: [
               "本隐私政策可能不时更新。若有重要更新，会在本页面反映新的生效日期。"
             ]
@@ -459,7 +475,7 @@ window.PET_PAW_SITE = {
       },
       privacy: {
         title: "隱私政策",
-        lead: "本隱私政策說明 喵語日記 / MeowTalk Diary 在你使用 App 時如何蒐集、保存、使用與分享資訊。",
+        lead: "本隱私政策說明 喵語日記 / MeowTalk Diary 在你使用 App 時如何處理資訊，包括本機儲存、可選同步與使用者主動分享。",
         sections: [
           {
             title: "1. 營運者資訊",
@@ -476,14 +492,22 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "3. iCloud 同步",
+            title: "3. 我們不會向你蒐集什麼",
             paragraphs: [
-              "喵語日記 可能提供受支援資料的可選 iCloud 同步功能。當你在裝置上啟用相關同步後，資料可能會透過與你的 Apple ID 關聯的 iCloud 服務進行儲存與同步。",
-              "Apple 作為雲端基礎設施提供者，會依其自身條款與隱私政策處理相關資料。"
+              "我們不會在自己的伺服器上蒐集、接收或儲存你的個人資料。",
+              "使用本 App 不需要註冊帳號，我們也不會要求你向我們提交姓名、電子郵件、手機號碼、通訊錄、位置、廣告識別碼或分析畫像等資訊。",
+              "你在 App 中輸入或儲存的內容主要供你自己紀錄使用，預設只保存在你的裝置上；只有在你主動開啟可選同步或分享功能時，相關資料才會離開裝置。"
             ]
           },
           {
-            title: "4. 權限說明",
+            title: "4. iCloud 同步",
+            paragraphs: [
+              "喵語日記 可能提供受支援資料的可選 iCloud 同步功能。當你在裝置上啟用相關同步後，資料可能會透過與你的 Apple ID 關聯的私有 CloudKit 服務進行儲存與同步。",
+              "這並不等同於把資料提交到我們自己的伺服器。Apple 作為雲端基礎設施提供者，會依其自身條款與隱私政策處理相關同步資料。"
+            ]
+          },
+          {
+            title: "5. 權限說明",
             bullets: [
               "照片權限：用於選擇寵物頭像，或把媒體匯入相簿內容。",
               "相機權限：用於在 App 內拍攝寵物照片或影片。",
@@ -492,7 +516,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "5. 與第三方分享",
+            title: "6. 與第三方分享",
             paragraphs: [
               "本 App 不出售你的資料。",
               "如果你主動使用微信分享或類似分享功能，你選擇分享的內容會傳送到對應第三方平台，僅用於完成你的分享請求。",
@@ -500,7 +524,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "6. 本 App 不會做什麼",
+            title: "7. 本 App 不會做什麼",
             bullets: [
               "沒有帳號系統",
               "沒有廣告",
@@ -509,7 +533,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "7. 資料保留與控制",
+            title: "8. 資料保留與控制",
             paragraphs: [
               "你可以隨時在 App 中修改或刪除自己的內容。",
               "保存在本機的資料會繼續留在你的裝置上，直到你刪除它、解除安裝 App，或透過系統/應用控制清除資料。",
@@ -517,14 +541,14 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "8. 兒童隱私",
+            title: "9. 兒童隱私",
             paragraphs: [
               "本 App 是通用的寵物紀錄工具，並非專門面向特定年齡以下兒童設計。",
               "如果你認為有資訊被不當提供，請聯絡營運者。"
             ]
           },
           {
-            title: "9. 政策更新",
+            title: "10. 政策更新",
             paragraphs: [
               "本隱私政策可能不時更新。若有重要更新，會在本頁面反映新的生效日期。"
             ]
@@ -662,7 +686,7 @@ window.PET_PAW_SITE = {
       },
       privacy: {
         title: "プライバシーポリシー",
-        lead: "このプライバシーポリシーは、にゃん語日記 / MeowTalk Diary の利用時に、どのように情報を取得、保存、利用、共有するかを説明します。",
+        lead: "このプライバシーポリシーは、にゃん語日記 / MeowTalk Diary の利用時に、情報がどのように扱われるかを説明します。これには端末内保存、任意の同期、ユーザー主導の共有が含まれます。",
         sections: [
           {
             title: "1. 運営者",
@@ -679,14 +703,22 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "3. iCloud 同期",
+            title: "3. 当社が収集しないもの",
             paragraphs: [
-              "にゃん語日記 は、対応データについて任意の iCloud 同期機能を提供する場合があります。iCloud 同期を有効にすると、データはあなたの Apple ID に紐づく Apple の iCloud サービスを通じて保存・同期されることがあります。",
-              "クラウド基盤の提供者である Apple は、自身の規約およびプライバシーポリシーに従って当該データを取り扱います。"
+              "当社は、あなたの個人データを自社サーバー上で収集、受領、保存しません。",
+              "本アプリの利用にアカウント登録は不要であり、氏名、メールアドレス、電話番号、連絡先、位置情報、広告識別子、分析プロフィールなどを当社へ提出するよう求めることもありません。",
+              "アプリ内で入力または保存した内容は、あなた自身の記録のためのものであり、任意の同期または共有機能を明示的に有効にしない限り、端末上に保存されます。"
             ]
           },
           {
-            title: "4. 権限",
+            title: "4. iCloud 同期",
+            paragraphs: [
+              "にゃん語日記 は、対応データについて任意の iCloud 同期機能を提供する場合があります。iCloud 同期を有効にすると、データはあなたの Apple ID に紐づく Apple の私的な CloudKit サービスを通じて保存・同期されることがあります。",
+              "これは当社自身のサーバーへデータを送信することとは異なります。クラウド基盤の提供者である Apple は、自身の規約およびプライバシーポリシーに従って当該同期データを取り扱います。"
+            ]
+          },
+          {
+            title: "5. 権限",
             bullets: [
               "写真: ペットのアイコン選択やアルバムへのメディア取り込みに使用します。",
               "カメラ: アプリ内でペットの写真や動画を撮影するために使用します。",
@@ -695,7 +727,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "5. 第三者との共有",
+            title: "6. 第三者との共有",
             paragraphs: [
               "本アプリはあなたのデータを販売しません。",
               "WeChat 共有などの共有機能をあなたが明示的に使った場合、共有対象として選んだ内容のみが、あなたのリクエストを完了するために第三者プラットフォームへ送信されます。",
@@ -703,7 +735,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "6. 本アプリが行わないこと",
+            title: "7. 本アプリが行わないこと",
             bullets: [
               "アカウントシステムなし",
               "広告なし",
@@ -712,7 +744,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "7. データ保持と管理",
+            title: "8. データ保持と管理",
             paragraphs: [
               "アプリ内の内容はいつでも編集または削除できます。",
               "ローカル保存されたデータは、削除、アプリ削除、またはシステム・アプリ側の操作で消去するまで端末に残ります。",
@@ -720,14 +752,14 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "8. 子どものプライバシー",
+            title: "9. 子どものプライバシー",
             paragraphs: [
               "本アプリは一般的なペット記録ツールであり、特定年齢未満の子どもを対象にしたものではありません。",
               "不適切に情報が提供されたと思われる場合は、運営者までご連絡ください。"
             ]
           },
           {
-            title: "9. 改定",
+            title: "10. 改定",
             paragraphs: [
               "本ポリシーは随時更新されることがあります。重要な更新がある場合は、このページ上の発効日を更新します。"
             ]
@@ -865,7 +897,7 @@ window.PET_PAW_SITE = {
       },
       privacy: {
         title: "개인정보처리방침",
-        lead: "이 개인정보처리방침은 냥어일기 / MeowTalk Diary 사용 시 정보가 어떻게 수집, 저장, 이용, 공유되는지 설명합니다.",
+        lead: "이 개인정보처리방침은 냥어일기 / MeowTalk Diary 사용 시 정보가 어떻게 처리되는지 설명합니다. 여기에는 기기 내 저장, 선택적 동기화, 사용자가 시작한 공유가 포함됩니다.",
         sections: [
           {
             title: "1. 운영자",
@@ -882,14 +914,22 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "3. iCloud 동기화",
+            title: "3. 우리가 수집하지 않는 정보",
             paragraphs: [
-              "냥어일기는 지원되는 데이터에 대해 선택적 iCloud 동기화 기능을 제공할 수 있습니다. 사용자가 기기에서 iCloud 동기화를 활성화하면 데이터는 Apple ID와 연결된 Apple iCloud 서비스를 통해 저장 및 동기화될 수 있습니다.",
-              "Apple은 해당 클라우드 인프라 제공자로서 자체 약관과 개인정보 처리 기준에 따라 데이터를 처리합니다."
+              "당사는 사용자의 개인 데이터를 자체 서버에서 수집, 수신 또는 저장하지 않습니다.",
+              "이 앱은 계정 가입이 필요 없으며, 이름, 이메일 주소, 전화번호, 연락처, 위치 정보, 광고 식별자, 분석 프로필 등을 당사에 제출하도록 요구하지 않습니다.",
+              "앱에 입력하거나 저장한 내용은 사용자의 개인 기록을 위한 것이며, 사용자가 선택적 동기화 또는 공유 기능을 명시적으로 켜지 않는 한 기기에 저장됩니다."
             ]
           },
           {
-            title: "4. 권한",
+            title: "4. iCloud 동기화",
+            paragraphs: [
+              "냥어일기는 지원되는 데이터에 대해 선택적 iCloud 동기화 기능을 제공할 수 있습니다. 사용자가 기기에서 iCloud 동기화를 활성화하면 데이터는 Apple ID와 연결된 Apple의 개인 CloudKit 서비스를 통해 저장 및 동기화될 수 있습니다.",
+              "이는 당사의 자체 서버로 데이터를 제출하는 것과는 다릅니다. Apple은 해당 클라우드 인프라 제공자로서 자체 약관과 개인정보 처리 기준에 따라 동기화 데이터를 처리합니다."
+            ]
+          },
+          {
+            title: "5. 권한",
             bullets: [
               "사진: 반려동물 아바타 선택 또는 앨범 미디어 가져오기에 사용됩니다.",
               "카메라: 앱 내에서 반려동물 사진이나 동영상을 촬영할 때 사용됩니다.",
@@ -898,7 +938,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "5. 제3자 공유",
+            title: "6. 제3자 공유",
             paragraphs: [
               "이 앱은 사용자의 데이터를 판매하지 않습니다.",
               "사용자가 직접 WeChat 공유 또는 유사한 공유 기능을 사용할 때, 사용자가 선택한 내용만 요청을 완료하기 위해 해당 제3자 플랫폼으로 전송됩니다.",
@@ -906,7 +946,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "6. 앱이 하지 않는 것",
+            title: "7. 앱이 하지 않는 것",
             bullets: [
               "계정 시스템 없음",
               "광고 없음",
@@ -915,7 +955,7 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "7. 데이터 보관 및 제어",
+            title: "8. 데이터 보관 및 제어",
             paragraphs: [
               "앱 내 콘텐츠는 언제든 수정하거나 삭제할 수 있습니다.",
               "로컬 저장 데이터는 사용자가 삭제하거나 앱을 제거하거나 시스템/앱 제어를 통해 지우기 전까지 기기에 남아 있습니다.",
@@ -923,14 +963,14 @@ window.PET_PAW_SITE = {
             ]
           },
           {
-            title: "8. 아동 개인정보",
+            title: "9. 아동 개인정보",
             paragraphs: [
               "이 앱은 일반적인 반려동물 기록 도구이며 특정 연령 미만 아동을 대상으로 설계되지 않았습니다.",
               "부적절하게 정보가 제공되었다고 생각되면 운영자에게 문의해 주세요."
             ]
           },
           {
-            title: "9. 정책 변경",
+            title: "10. 정책 변경",
             paragraphs: [
               "이 개인정보처리방침은 수시로 업데이트될 수 있습니다. 중요한 변경이 있으면 이 페이지의 시행일이 갱신됩니다."
             ]
