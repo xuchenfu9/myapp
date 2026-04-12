@@ -1,32 +1,6 @@
 {
   "recommendations": [
     {
-      "id": "todo-list",
-      "title": {
-        "zh-Hans": "推荐下载：番茄钟Todo",
-        "zh-Hant": "推薦下載：番茄鐘Todo",
-        "en": "Try this to-do app",
-        "ja": "おすすめ：使いやすいToDoリストアプリ",
-        "ko": "추천 다운로드: 편리한 할 일 목록 앱"
-      },
-      "url": "https://apps.apple.com/app/id6759079848",
-      "emoji": "🌟",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/d4/6e/54d46ea6-6f6c-2d00-ebff-087ec080d8b1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
-    },
-    {
-      "id": "party-games",
-      "title": {
-        "zh-Hans": "推荐：聚会游戏",
-        "zh-Hant": "推薦：聚會遊戲",
-        "en": "Try Party Games",
-        "ja": "おすすめ：パーティーゲーム",
-        "ko": "추천: 파티 게임"
-      },
-      "url": "https://apps.apple.com/app/id6759240304",
-      "emoji": "🎉",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/1e/5a/de1e5a8a-1112-1f1f-fc9b-75915e3be90b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
-    },
-    {
       "id": "meowtalk-diary",
       "title": {
         "zh-Hans": "推荐：喵语日记",
@@ -64,6 +38,19 @@
       "url": "https://apps.apple.com/app/id6758990165",
       "emoji": "🔖",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/72/ee/0e72eef8-1dfc-bf47-7a6c-b5b2d40f55bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+    },
+    {
+      "id": "party-games",
+      "title": {
+        "zh-Hans": "推荐：聚会游戏",
+        "zh-Hant": "推薦：聚會遊戲",
+        "en": "Try Party Games",
+        "ja": "おすすめ：パーティーゲーム",
+        "ko": "추천: 파티 게임"
+      },
+      "url": "https://apps.apple.com/app/id6759240304",
+      "emoji": "🎉",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/1e/5a/de1e5a8a-1112-1f1f-fc9b-75915e3be90b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
     }
   ]
 }
