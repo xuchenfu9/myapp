@@ -11,10 +11,10 @@
       },
       "url": "https://apps.apple.com/app/id6761005924",
       "emoji": "🐱",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/11/7d/5e117d08-74aa-e4e0-f2ba-4c653062a789/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg"
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6761005924.png"
     },
     {
-      "id": "example-app-2",
+      "id": "one-dollar-id",
       "title": {
         "zh-Hans": "推荐：佳佳证件照",
         "zh-Hant": "推薦：佳佳證件照",
@@ -24,7 +24,7 @@
       },
       "url": "https://apps.apple.com/app/id6758612379",
       "emoji": "✨",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/fd/6a/9bfd6aaa-fd54-bda4-864c-e522938767ea/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758612379.png"
     },
     {
       "id": "my-bookmarks",
@@ -37,7 +37,7 @@
       },
       "url": "https://apps.apple.com/app/id6758990165",
       "emoji": "🔖",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/72/ee/0e72eef8-1dfc-bf47-7a6c-b5b2d40f55bf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758990165.png"
     },
     {
       "id": "party-games",
@@ -50,7 +50,7 @@
       },
       "url": "https://apps.apple.com/app/id6759240304",
       "emoji": "🎉",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/1e/5a/de1e5a8a-1112-1f1f-fc9b-75915e3be90b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6759240304.png"
     }
   ]
 }
