@@ -2,6 +2,10 @@ import CryptoKit
 import Foundation
 
 public enum DetachedSignatureVerifier {
+    /// Verifies the supported signature metadata, public key, and signature over the exact document bytes.
+    ///
+    /// This method does not decode `documentData` or validate `signature.revision`.
+    /// Callers must decode the document and compare its revision with `signature.revision` separately.
     public static func verify(
         documentData: Data,
         signature: CatalogSignature,

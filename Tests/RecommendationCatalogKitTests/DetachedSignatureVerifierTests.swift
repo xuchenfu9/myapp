@@ -64,4 +64,61 @@ final class DetachedSignatureVerifierTests: XCTestCase {
             XCTAssertEqual(error as? CatalogSignatureVerificationError, .invalidSignature)
         }
     }
+
+    func testRejectsUnsupportedKeyID() {
+        let signature = CatalogSignature(
+            keyID: "tips-v1",
+            algorithm: "ed25519",
+            revision: 0,
+            signature: "ignored"
+        )
+
+        XCTAssertThrowsError(
+            try DetachedSignatureVerifier.verify(
+                documentData: Data(#"{"tips":[]}"#.utf8),
+                signature: signature,
+                publicKeyBase64: "ignored"
+            )
+        ) { error in
+            XCTAssertEqual(error as? CatalogSignatureVerificationError, .unsupportedSignature)
+        }
+    }
+
+    func testRejectsInvalidSignatureBase64() {
+        let signature = CatalogSignature(
+            keyID: "catalog-v2",
+            algorithm: "ed25519",
+            revision: 0,
+            signature: "not base64"
+        )
+
+        XCTAssertThrowsError(
+            try DetachedSignatureVerifier.verify(
+                documentData: Data(#"{"tips":[]}"#.utf8),
+                signature: signature,
+                publicKeyBase64: "AA=="
+            )
+        ) { error in
+            XCTAssertEqual(error as? CatalogSignatureVerificationError, .invalidSignatureEncoding)
+        }
+    }
+
+    func testRejectsInvalidPublicKeyBase64() {
+        let signature = CatalogSignature(
+            keyID: "catalog-v2",
+            algorithm: "ed25519",
+            revision: 0,
+            signature: "AA=="
+        )
+
+        XCTAssertThrowsError(
+            try DetachedSignatureVerifier.verify(
+                documentData: Data(#"{"tips":[]}"#.utf8),
+                signature: signature,
+                publicKeyBase64: "not base64"
+            )
+        ) { error in
+            XCTAssertEqual(error as? CatalogSignatureVerificationError, .invalidPublicKey)
+        }
+    }
 }
