@@ -89,15 +89,17 @@
       "url": "https://apps.apple.com/us/app/id6758990165",
       "emoji": "📱",
       "summary": {
-        "zh-Hans": "工作、学习和日常会用到的链接，放进一个找得到、也愿意再打开的书签库。",
-        "zh-Hant": "把工作、學習和生活裡的連結整理成真正會再打開的私人書籤庫，而不是另一個被遺忘的收藏夾。",
-        "en": "Turn work, learning, and everyday links into a private library you will actually revisit, not another forgotten collection.",
-        "ja": "仕事、学び、日常のリンクを、忘れられたコレクションではなく本当にまた開く自分だけのライブラリに整理します。",
-        "ko": "업무, 학습, 일상의 링크를 잊혀진 저장 목록이 아니라 실제로 다시 찾게 되는 개인 라이브러리로 정리하세요."
+        "zh-Hans": "把工作、学习和日常链接放进一个清晰的书签库：分类、搜索、分享、Face ID 私人分组，以及 iPhone Duo 的左侧列表与右侧网页浏览都在同一套体验里。",
+        "zh-Hant": "把工作、學習和生活裡的連結整理成清晰的私人書籤庫，支援分類、搜尋、分享、Face ID 私人分組，以及 iPhone Duo 左側列表與右側網頁瀏覽。",
+        "en": "Keep work, learning, and everyday links in a clear bookmark library with categories, search, sharing, Face ID private groups, and side-by-side browsing on iPhone Duo.",
+        "ja": "仕事、学び、日常のリンクを整理し、カテゴリ、検索、共有、Face ID のプライベートグループ、iPhone Duo の左右分割ブラウジングを一つにまとめます。",
+        "ko": "업무, 학습, 일상의 링크를 카테고리, 검색, 공유, Face ID 비공개 그룹과 iPhone Duo 좌우 분할 브라우징을 갖춘 명확한 북마크 라이브러리로 정리하세요."
       },
       "iconURL": "https://www.appoffu.com/assets/apps/my-bookmarks/web/icon.webp",
       "screenshots": [
-        "https://www.appoffu.com/assets/apps/my-bookmarks/web/screen-01.webp"
+        "https://www.appoffu.com/assets/apps/my-bookmarks/web/screen-01.webp",
+        "https://www.appoffu.com/assets/apps/my-bookmarks/web/screen-02.webp",
+        "https://www.appoffu.com/assets/apps/my-bookmarks/web/screen-03.webp"
       ],
       "websiteURL": "https://www.appoffu.com/en/apps/my-bookmarks/",
       "storeURL": "https://apps.apple.com/us/app/id6758990165",
