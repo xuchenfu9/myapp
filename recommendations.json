@@ -33,11 +33,11 @@
       "url": "https://apps.apple.com/us/app/id6759079848",
       "emoji": "📱",
       "summary": {
-        "zh-Hans": "把任务、习惯、番茄钟和提醒放在一起。无论是每天的待办，还是大小周、做几休几的工作节奏，都能按自己的日程来安排。",
-        "zh-Hant": "一個完整的 Todo 工具：把任務、習慣、番茄鐘、系統級鬧鐘、生日提醒和日曆安排放進同一套清晰的日程。",
-        "en": "A complete Todo tool for tasks, habits, Pomodoro focus, system alarms, birthday reminders, and calendar plans in one clear schedule.",
-        "ja": "タスク、習慣、ポモドーロ、システムアラーム、誕生日通知、カレンダーを一つの見やすい予定にまとめる Todo ツールです。",
-        "ko": "할 일, 습관, 포모도로 집중, 시스템 알람, 생일 알림, 캘린더 계획을 하나의 분명한 일정으로 관리하는 Todo 도구입니다."
+        "zh-Hans": "把任务、习惯、番茄钟、系统闹钟、生日提醒和日历安排放进一套清晰的日程；大小周、做几休几和调休等工作节奏也能按自己的规则安排。",
+        "zh-Hant": "把任務、習慣、番茄鐘、系統級鬧鐘、生日提醒和日曆安排放進一套清晰的日程，也能依自己的規則安排大小週、做幾休幾與調休。",
+        "en": "Plan tasks, habits, Pomodoro focus, system alarms, birthdays, and calendar events in one clear schedule, with support for alternating weeks and custom work-rest cycles.",
+        "ja": "タスク、習慣、ポモドーロ、システムアラーム、誕生日通知、カレンダーを一つにまとめ、隔週勤務やカスタム勤務・休日サイクルにも対応する Todo ツールです。",
+        "ko": "할 일, 습관, 포모도로 집중, 시스템 알람, 생일 알림, 캘린더 계획을 한 일정으로 관리하고 격주 근무와 사용자 지정 근무·휴무 주기도 지원하는 Todo 도구입니다."
       },
       "iconURL": "https://www.appoffu.com/assets/apps/perfectlist/web/icon.webp",
       "screenshots": [
@@ -78,13 +78,39 @@
       "storeStatus": "live"
     },
     {
+      "id": "my-bookmarks",
+      "title": {
+        "zh-Hans": "我的书签 - 极简书签管理器 & 二维码分享",
+        "zh-Hant": "我的书签 - 极简书签管理器 & 二维码分享",
+        "en": "我的书签 - 极简书签管理器 & 二维码分享",
+        "ja": "我的书签 - 极简书签管理器 & 二维码分享",
+        "ko": "我的书签 - 极简书签管理器 & 二维码分享"
+      },
+      "url": "https://apps.apple.com/us/app/id6758990165",
+      "emoji": "📱",
+      "summary": {
+        "zh-Hans": "工作、学习和日常会用到的链接，放进一个找得到、也愿意再打开的书签库。",
+        "zh-Hant": "把工作、學習和生活裡的連結整理成真正會再打開的私人書籤庫，而不是另一個被遺忘的收藏夾。",
+        "en": "Turn work, learning, and everyday links into a private library you will actually revisit, not another forgotten collection.",
+        "ja": "仕事、学び、日常のリンクを、忘れられたコレクションではなく本当にまた開く自分だけのライブラリに整理します。",
+        "ko": "업무, 학습, 일상의 링크를 잊혀진 저장 목록이 아니라 실제로 다시 찾게 되는 개인 라이브러리로 정리하세요."
+      },
+      "iconURL": "https://www.appoffu.com/assets/apps/my-bookmarks/web/icon.webp",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/my-bookmarks/web/screen-01.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/my-bookmarks/",
+      "storeURL": "https://apps.apple.com/us/app/id6758990165",
+      "storeStatus": "live"
+    },
+    {
       "id": "jiajia-id-photo",
       "title": {
         "zh-Hans": "佳佳证件照",
         "zh-Hant": "佳佳照片",
         "en": "JiaJia Photo",
-        "ja": "JiaJia Photo",
-        "ko": "JiaJia Photo"
+        "ja": "佳佳证件照",
+        "ko": "佳佳证件照"
       },
       "url": "https://www.appoffu.com/en/apps/jiajia-id-photo/",
       "emoji": "📱",
@@ -208,3 +234,4 @@
     }
   ]
 }
+
