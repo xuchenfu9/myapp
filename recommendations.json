@@ -11,7 +11,22 @@
       },
       "url": "https://apps.apple.com/app/id6761005924",
       "emoji": "🐱",
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6761005924.png"
+      "summary": {
+        "zh-Hans": "记录宠物的日常、照片和照护情况，也留下一些以后想再看的声音和回忆。",
+        "zh-Hant": "記錄寵物的日常、照片與照護情況，也留下日後想再看的聲音與回憶。",
+        "en": "Keep a warm record of a pet’s everyday life, photos, care, sounds, and memories.",
+        "ja": "ペットの日常、写真、お世話の記録、声と思い出を残せます。",
+        "ko": "반려동물의 일상, 사진, 돌봄 기록, 소리와 추억을 따뜻하게 남깁니다."
+      },
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6761005924.png",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/meowtalk-diary/web/screen-01.webp",
+        "https://www.appoffu.com/assets/apps/meowtalk-diary/web/screen-02.webp",
+        "https://www.appoffu.com/assets/apps/meowtalk-diary/web/screen-03.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/meowtalk-diary/",
+      "storeURL": "https://apps.apple.com/app/id6761005924",
+      "storeStatus": "live"
     },
     {
       "id": "one-dollar-id",
@@ -24,7 +39,20 @@
       },
       "url": "https://apps.apple.com/app/id6758612379",
       "emoji": "✨",
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758612379.png"
+      "summary": {
+        "zh-Hans": "从相机或照片开始，在设备上完成裁剪、背景调整、自然美化和清晰导出。",
+        "zh-Hant": "從相機或照片開始，在裝置上完成裁切、背景調整、自然美化與清晰匯出。",
+        "en": "Edit a portrait on device with common ratios, background tools, natural retouching, and clear export.",
+        "ja": "カメラや写真から始め、構図、背景、自然な補正、書き出しを整えます。",
+        "ko": "카메라나 사진에서 시작해 기기에서 구도, 배경, 자연스러운 보정과 내보내기를 정리합니다."
+      },
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758612379.png",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/jiajia-id-photo/web/screen-01.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/jiajia-id-photo/",
+      "storeURL": "https://apps.apple.com/app/id6758612379",
+      "storeStatus": "planned"
     },
     {
       "id": "my-bookmarks",
@@ -37,7 +65,20 @@
       },
       "url": "https://apps.apple.com/app/id6758990165",
       "emoji": "🔖",
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758990165.png"
+      "summary": {
+        "zh-Hans": "工作、学习和日常会用到的链接，放进一个找得到、也愿意再打开的书签库。",
+        "zh-Hant": "把工作、學習與日常會用到的連結，放進一個容易找到、也願意再次打開的書籤庫。",
+        "en": "Keep work, study, and everyday links in a bookmark library that is easy to find and worth reopening.",
+        "ja": "仕事、学習、日常のリンクを、見つけやすくまた開きたくなるブックマークに整理します。",
+        "ko": "업무, 학습, 일상 링크를 찾기 쉽고 다시 열고 싶은 북마크 라이브러리로 정리합니다."
+      },
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758990165.png",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/my-bookmarks/web/screen-01.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/my-bookmarks/",
+      "storeURL": "https://apps.apple.com/app/id6758990165",
+      "storeStatus": "live"
     },
     {
       "id": "party-games",
@@ -50,7 +91,22 @@
       },
       "url": "https://apps.apple.com/app/id6759240304",
       "emoji": "🎉",
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6759240304.png"
+      "summary": {
+        "zh-Hans": "几个人面对面玩的小游戏合集，连上蓝牙或同一 Wi-Fi，选个玩法就能开始。",
+        "zh-Hant": "幾個人面對面玩的小游戏合集，連上藍牙或同一個 Wi-Fi，選個玩法就能開始。",
+        "en": "A collection of face-to-face party games that start when friends join over Bluetooth or the same Wi-Fi.",
+        "ja": "Bluetooth または同じ Wi-Fi でつながり、みんなで遊べる対面パーティーゲーム集です。",
+        "ko": "블루투스나 같은 Wi-Fi로 연결해 여러 사람이 함께 즐기는 파티 게임 모음입니다."
+      },
+      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6759240304.png",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/party-games/web/screen-01.webp",
+        "https://www.appoffu.com/assets/apps/party-games/web/screen-02.webp",
+        "https://www.appoffu.com/assets/apps/party-games/web/screen-03.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/party-games/",
+      "storeURL": "https://apps.apple.com/app/id6759240304",
+      "storeStatus": "live"
     }
   ]
 }
