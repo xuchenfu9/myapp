@@ -1,112 +1,210 @@
 {
   "recommendations": [
     {
+      "id": "mobi-elliptical",
+      "title": {
+        "zh-Hans": "Mobi椭圆机",
+        "zh-Hant": "Mobi椭圆机",
+        "en": "Mobi椭圆机",
+        "ja": "Mobi椭圆机",
+        "ko": "Mobi椭圆机"
+      },
+      "url": "https://www.appoffu.com/en/apps/mobi-elliptical/",
+      "emoji": "📱",
+      "summary": {
+        "zh-Hans": "用 iPhone 连上莫比椭圆机，边练边看数据，训练结束后回看记录。"
+      },
+      "iconURL": "https://www.appoffu.com/assets/apps/mobi-elliptical/web/icon.webp",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/mobi-elliptical/web/screen-01.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/mobi-elliptical/",
+      "storeStatus": "planned"
+    },
+    {
+      "id": "perfectlist",
+      "title": {
+        "zh-Hans": "番茄钟Todo|生日管理器(支持农历)|工作日闹钟",
+        "zh-Hant": "番茄鐘Todo-農曆生日與工作日鬧鐘-任務清單",
+        "en": "PerfectList·To-Do",
+        "ja": "やることリストと誕生日アラーム",
+        "ko": "PerfectList-Birthday Alarm"
+      },
+      "url": "https://apps.apple.com/us/app/id6759079848",
+      "emoji": "📱",
+      "summary": {
+        "zh-Hans": "把任务、习惯、番茄钟和提醒放在一起。无论是每天的待办，还是大小周、做几休几的工作节奏，都能按自己的日程来安排。",
+        "zh-Hant": "一個完整的 Todo 工具：把任務、習慣、番茄鐘、系統級鬧鐘、生日提醒和日曆安排放進同一套清晰的日程。",
+        "en": "A complete Todo tool for tasks, habits, Pomodoro focus, system alarms, birthday reminders, and calendar plans in one clear schedule.",
+        "ja": "タスク、習慣、ポモドーロ、システムアラーム、誕生日通知、カレンダーを一つの見やすい予定にまとめる Todo ツールです。",
+        "ko": "할 일, 습관, 포모도로 집중, 시스템 알람, 생일 알림, 캘린더 계획을 하나의 분명한 일정으로 관리하는 Todo 도구입니다."
+      },
+      "iconURL": "https://www.appoffu.com/assets/apps/perfectlist/web/icon.webp",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/perfectlist/web/screen-01.webp",
+        "https://www.appoffu.com/assets/apps/perfectlist/web/screen-02.webp",
+        "https://www.appoffu.com/assets/apps/perfectlist/web/screen-03.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/perfectlist/",
+      "storeURL": "https://apps.apple.com/us/app/id6759079848",
+      "storeStatus": "live"
+    },
+    {
       "id": "meowtalk-diary",
       "title": {
-        "zh-Hans": "推荐：喵语日记",
-        "zh-Hant": "推薦：喵語日記",
-        "en": "Try MeowTalk Diary",
-        "ja": "おすすめ：MeowTalk Diary",
-        "ko": "추천: MeowTalk Diary"
+        "zh-Hans": "喵语日记｜与猫对话，记录宠物的点滴",
+        "zh-Hant": "喵語日記｜與貓對話，記錄寵物的點滴",
+        "en": "MeowTalk Diary | Cat Talk Log",
+        "ja": "にゃん語日記｜猫と話して日々を記録",
+        "ko": "냥어일기｜고양이와 대화, 반려일상 기록"
       },
-      "url": "https://apps.apple.com/app/id6761005924",
-      "emoji": "🐱",
+      "url": "https://apps.apple.com/us/app/id6761005924",
+      "emoji": "📱",
       "summary": {
         "zh-Hans": "记录宠物的日常、照片和照护情况，也留下一些以后想再看的声音和回忆。",
-        "zh-Hant": "記錄寵物的日常、照片與照護情況，也留下日後想再看的聲音與回憶。",
-        "en": "Keep a warm record of a pet’s everyday life, photos, care, sounds, and memories.",
-        "ja": "ペットの日常、写真、お世話の記録、声と思い出を残せます。",
-        "ko": "반려동물의 일상, 사진, 돌봄 기록, 소리와 추억을 따뜻하게 남깁니다."
+        "zh-Hant": "為寵物留下一本慢慢長大的生活檔案：日記、照片、照護記錄與小提醒都回到同一個溫暖的家。",
+        "en": "Give a pet's life a place to grow: notes, photos, care records, and gentle reminders belong together in one warm diary.",
+        "ja": "日記、写真、お世話の記録、小さなリマインダーを一つの温かな場所に。ペットとの暮らしがゆっくり育つ記録になります。",
+        "ko": "일기, 사진, 돌봄 기록, 작은 알림을 한곳에 모아 반려동물과 함께한 시간이 천천히 쌓이는 따뜻한 기록으로 남깁니다."
       },
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6761005924.png",
+      "iconURL": "https://www.appoffu.com/assets/apps/meowtalk-diary/web/icon.webp",
       "screenshots": [
         "https://www.appoffu.com/assets/apps/meowtalk-diary/web/screen-01.webp",
         "https://www.appoffu.com/assets/apps/meowtalk-diary/web/screen-02.webp",
         "https://www.appoffu.com/assets/apps/meowtalk-diary/web/screen-03.webp"
       ],
       "websiteURL": "https://www.appoffu.com/en/apps/meowtalk-diary/",
-      "storeURL": "https://apps.apple.com/app/id6761005924",
+      "storeURL": "https://apps.apple.com/us/app/id6761005924",
       "storeStatus": "live"
     },
     {
-      "id": "one-dollar-id",
+      "id": "jiajia-id-photo",
       "title": {
-        "zh-Hans": "推荐：佳佳证件照",
-        "zh-Hant": "推薦：佳佳證件照",
-        "en": "Try this ID photo app",
-        "ja": "おすすめ：証明写真アプリ",
-        "ko": "추천: 증명사진 앱"
+        "zh-Hans": "佳佳证件照",
+        "zh-Hant": "佳佳照片",
+        "en": "JiaJia Photo",
+        "ja": "JiaJia Photo",
+        "ko": "JiaJia Photo"
       },
-      "url": "https://apps.apple.com/app/id6758612379",
-      "emoji": "✨",
+      "url": "https://www.appoffu.com/en/apps/jiajia-id-photo/",
+      "emoji": "📱",
       "summary": {
-        "zh-Hans": "从相机或照片开始，在设备上完成裁剪、背景调整、自然美化和清晰导出。",
-        "zh-Hant": "從相機或照片開始，在裝置上完成裁切、背景調整、自然美化與清晰匯出。",
-        "en": "Edit a portrait on device with common ratios, background tools, natural retouching, and clear export.",
-        "ja": "カメラや写真から始め、構図、背景、自然な補正、書き出しを整えます。",
-        "ko": "카메라나 사진에서 시작해 기기에서 구도, 배경, 자연스러운 보정과 내보내기를 정리합니다."
+        "zh-Hans": "一款通用人像照片编辑器，从相机或照片开始，在手机上完成裁剪、背景调整、自然美化和导出。",
+        "zh-Hant": "從相機或照片開始，在裝置上完成自然的人像處理、背景調整、常用比例裁切和清晰匯出。",
+        "en": "JiaJia Photo is a general portrait photo editor: start with the camera or Photos, then use background tools, common ratios, natural retouching, and clear export on device.",
+        "ja": "カメラまたは写真から始め、デバイス上で背景、構図、自然な補正、書き出しを整えます。",
+        "ko": "카메라나 사진 보관함에서 시작해 기기에서 배경, 구도, 자연스러운 보정과 선명한 내보내기를 정리합니다."
       },
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758612379.png",
+      "iconURL": "https://www.appoffu.com/assets/apps/jiajia-id-photo/web/icon.webp",
       "screenshots": [
         "https://www.appoffu.com/assets/apps/jiajia-id-photo/web/screen-01.webp"
       ],
       "websiteURL": "https://www.appoffu.com/en/apps/jiajia-id-photo/",
-      "storeURL": "https://apps.apple.com/app/id6758612379",
       "storeStatus": "planned"
-    },
-    {
-      "id": "my-bookmarks",
-      "title": {
-        "zh-Hans": "推荐：我的书签",
-        "zh-Hant": "推薦：我的書籤",
-        "en": "Try My Bookmarks",
-        "ja": "おすすめ：マイブックマーク",
-        "ko": "추천: 내 북마크"
-      },
-      "url": "https://apps.apple.com/app/id6758990165",
-      "emoji": "🔖",
-      "summary": {
-        "zh-Hans": "工作、学习和日常会用到的链接，放进一个找得到、也愿意再打开的书签库。",
-        "zh-Hant": "把工作、學習與日常會用到的連結，放進一個容易找到、也願意再次打開的書籤庫。",
-        "en": "Keep work, study, and everyday links in a bookmark library that is easy to find and worth reopening.",
-        "ja": "仕事、学習、日常のリンクを、見つけやすくまた開きたくなるブックマークに整理します。",
-        "ko": "업무, 학습, 일상 링크를 찾기 쉽고 다시 열고 싶은 북마크 라이브러리로 정리합니다."
-      },
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6758990165.png",
-      "screenshots": [
-        "https://www.appoffu.com/assets/apps/my-bookmarks/web/screen-01.webp"
-      ],
-      "websiteURL": "https://www.appoffu.com/en/apps/my-bookmarks/",
-      "storeURL": "https://apps.apple.com/app/id6758990165",
-      "storeStatus": "live"
     },
     {
       "id": "party-games",
       "title": {
-        "zh-Hans": "推荐：聚会游戏",
-        "zh-Hant": "推薦：聚會遊戲",
-        "en": "Try Party Games",
-        "ja": "おすすめ：パーティーゲーム",
-        "ko": "추천: 파티 게임"
+        "zh-Hans": "派对游戏 — 多人聚会小游戏合集-PartyGames",
+        "zh-Hant": "派对游戏 — 多人聚会小游戏合集-PartyGames",
+        "en": "派对游戏 — 多人聚会小游戏合集-PartyGames",
+        "ja": "派对游戏 — 多人聚会小游戏合集-PartyGames",
+        "ko": "派对游戏 — 多人聚会小游戏合集-PartyGames"
       },
-      "url": "https://apps.apple.com/app/id6759240304",
-      "emoji": "🎉",
+      "url": "https://apps.apple.com/us/app/id6759240304",
+      "emoji": "📱",
       "summary": {
-        "zh-Hans": "几个人面对面玩的小游戏合集，连上蓝牙或同一 Wi-Fi，选个玩法就能开始。",
-        "zh-Hant": "幾個人面對面玩的小游戏合集，連上藍牙或同一個 Wi-Fi，選個玩法就能開始。",
-        "en": "A collection of face-to-face party games that start when friends join over Bluetooth or the same Wi-Fi.",
-        "ja": "Bluetooth または同じ Wi-Fi でつながり、みんなで遊べる対面パーティーゲーム集です。",
-        "ko": "블루투스나 같은 Wi-Fi로 연결해 여러 사람이 함께 즐기는 파티 게임 모음입니다."
+        "zh-Hans": "几个人面对面玩的小合集。连上蓝牙或同一 Wi-Fi，选个玩法就能开始。",
+        "zh-Hant": "為面對面聚會準備的本機多人遊戲合集：短規則、快開局，讓陌生人與老朋友都能迅速加入。",
+        "en": "A local multiplayer collection made for people in the same room: short rules, quick starts, and an easy way for new and old friends to join in.",
+        "ja": "同じ場所に集まった人のためのローカル対戦ゲーム集。短いルールとすばやい開始で、初対面でもいつもの友達でもすぐに参加できます。",
+        "ko": "같은 공간에 모인 사람들을 위한 로컬 멀티플레이 게임 모음입니다. 짧은 규칙과 빠른 시작으로 처음 만난 사람도 익숙한 친구도 쉽게 함께합니다."
       },
-      "iconURL": "https://raw.githubusercontent.com/xuchenfu9/myapp/main/catalog/icons/6759240304.png",
+      "iconURL": "https://www.appoffu.com/assets/apps/party-games/web/icon.webp",
       "screenshots": [
         "https://www.appoffu.com/assets/apps/party-games/web/screen-01.webp",
         "https://www.appoffu.com/assets/apps/party-games/web/screen-02.webp",
         "https://www.appoffu.com/assets/apps/party-games/web/screen-03.webp"
       ],
       "websiteURL": "https://www.appoffu.com/en/apps/party-games/",
-      "storeURL": "https://apps.apple.com/app/id6759240304",
+      "storeURL": "https://apps.apple.com/us/app/id6759240304",
       "storeStatus": "live"
+    },
+    {
+      "id": "banzhuren",
+      "title": {
+        "zh-Hans": "班主任小秘书",
+        "zh-Hant": "班主任小秘书",
+        "en": "班主任小秘书",
+        "ja": "班主任小秘书",
+        "ko": "班主任小秘书"
+      },
+      "url": "https://apps.apple.com/us/app/id6797754054",
+      "emoji": "📱",
+      "summary": {
+        "zh-Hans": "把班级、课程、学生情况、待办和工作记录放在一起。基础班务功能可以免费使用。",
+        "zh-Hant": "面向不同地區與學段的教師，集中管理班級檔案、課程、學生表現、待辦提醒與工作記錄；行動端基礎班務功能可免費使用。",
+        "en": "Manage classes, courses, student records, reminders, and work logs across regions and school levels. Core classroom tools on iPhone and iPad are free to use.",
+        "ja": "地域や学段に合わせて、学級、時間割、生徒記録、リマインダー、業務記録を一元管理。iPhone と iPad の基本的な学級管理機能は無料です。",
+        "ko": "지역과 학교 급별에 맞게 학급, 시간표, 학생 기록, 알림, 업무 로그를 한곳에서 관리합니다. iPhone과 iPad의 기본 학급 관리 기능은 무료입니다."
+      },
+      "iconURL": "https://www.appoffu.com/assets/apps/banzhuren/web/icon.webp",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/banzhuren/web/screen-01.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/banzhuren/",
+      "storeURL": "https://apps.apple.com/us/app/id6797754054",
+      "storeStatus": "live"
+    },
+    {
+      "id": "appstoryline",
+      "title": {
+        "zh-Hans": "上架图工具",
+        "zh-Hant": "上架圖工具",
+        "en": "App Screenshot Tools",
+        "ja": "App Screenshot Tools",
+        "ko": "App Screenshot Tools"
+      },
+      "url": "https://apps.apple.com/us/app/id6799942231",
+      "emoji": "📱",
+      "summary": {
+        "zh-Hans": "在设备上把截图排成上架图：套用模板，改好文字和背景，保存项目，最后导出 PNG 或 ZIP。",
+        "zh-Hant": "在裝置上把截圖整理成更清楚的上架圖片：選擇範本、編輯文字和背景，保存專案並輸出 PNG 或 ZIP。",
+        "en": "Turn your screenshots into clear, ready-to-review product images on your device: choose a template, edit the message and background, save the project, and export PNG or ZIP.",
+        "ja": "デバイス上でスクリーンショットを見やすい製品画像に整えます。テンプレートを選び、文字と背景を編集し、プロジェクトを保存して PNG や ZIP に書き出せます。",
+        "ko": "기기에서 스크린샷을 알아보기 쉬운 제품 이미지로 정리하세요. 템플릿을 선택하고 메시지와 배경을 편집한 뒤 프로젝트를 저장하고 PNG 또는 ZIP으로 내보냅니다."
+      },
+      "iconURL": "https://www.appoffu.com/assets/apps/appstoryline/web/icon.webp",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/appstoryline/web/screen-01.webp",
+        "https://www.appoffu.com/assets/apps/appstoryline/web/screen-02.webp",
+        "https://www.appoffu.com/assets/apps/appstoryline/web/screen-03.webp",
+        "https://www.appoffu.com/assets/apps/appstoryline/web/screen-04.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/appstoryline/",
+      "storeURL": "https://apps.apple.com/us/app/id6799942231",
+      "storeStatus": "live"
+    },
+    {
+      "id": "fuzhixing-dashcam",
+      "title": {
+        "zh-Hans": "福之行车记录仪",
+        "zh-Hant": "福之行车记录仪",
+        "en": "福之行车记录仪",
+        "ja": "福之行车记录仪",
+        "ko": "福之行车记录仪"
+      },
+      "url": "https://www.appoffu.com/en/apps/fuzhixing-dashcam/",
+      "emoji": "📱",
+      "summary": {
+        "zh-Hans": "把闲置手机放回车里，完成录像、循环分段、事件保护和回放。要不要连车机，由你决定。"
+      },
+      "iconURL": "https://www.appoffu.com/assets/apps/fuzhixing-dashcam/web/icon.webp",
+      "screenshots": [
+        "https://www.appoffu.com/assets/apps/fuzhixing-dashcam/web/screen-01.webp"
+      ],
+      "websiteURL": "https://www.appoffu.com/en/apps/fuzhixing-dashcam/",
+      "storeStatus": "planned"
     }
   ]
 }
